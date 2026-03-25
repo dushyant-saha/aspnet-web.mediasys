@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B94B6B-D085-4DF0-AFBA-E8EEAB2FDA1C}|MediaSysTask.csproj|C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B94B6B-D085-4DF0-AFBA-E8EEAB2FDA1C}|MediaSysTask.csproj|solutionrelative:dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B94B6B-D085-4DF0-AFBA-E8EEAB2FDA1C}|MediaSysTask.csproj|c:\\users\\dushyant\\desktop\\mediasys\\mediasystask\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D4B94B6B-D085-4DF0-AFBA-E8EEAB2FDA1C}|MediaSysTask.csproj|solutionrelative:dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B94B6B-D085-4DF0-AFBA-E8EEAB2FDA1C}|MediaSysTask.csproj|C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D4B94B6B-D085-4DF0-AFBA-E8EEAB2FDA1C}|MediaSysTask.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B94B6B-D085-4DF0-AFBA-E8EEAB2FDA1C}|MediaSysTask.csproj|c:\\users\\dushyant\\desktop\\mediasys\\mediasystask\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B94B6B-D085-4DF0-AFBA-E8EEAB2FDA1C}|MediaSysTask.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B94B6B-D085-4DF0-AFBA-E8EEAB2FDA1C}|MediaSysTask.csproj|c:\\users\\dushyant\\desktop\\mediasys\\mediasystask\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B94B6B-D085-4DF0-AFBA-E8EEAB2FDA1C}|MediaSysTask.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B94B6B-D085-4DF0-AFBA-E8EEAB2FDA1C}|MediaSysTask.csproj|C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B94B6B-D085-4DF0-AFBA-E8EEAB2FDA1C}|MediaSysTask.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B94B6B-D085-4DF0-AFBA-E8EEAB2FDA1C}|MediaSysTask.csproj|c:\\users\\dushyant\\desktop\\mediasys\\mediasystask\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D4B94B6B-D085-4DF0-AFBA-E8EEAB2FDA1C}|MediaSysTask.csproj|solutionrelative:register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B94B6B-D085-4DF0-AFBA-E8EEAB2FDA1C}|MediaSysTask.csproj|C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B94B6B-D085-4DF0-AFBA-E8EEAB2FDA1C}|MediaSysTask.csproj|solutionrelative:register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "Dashboard.aspx",
+              "ToolTip": "C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\Dashboard.aspx",
+              "RelativeToolTip": "Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-25T16:47:29.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Dashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\Dashboard.aspx.cs",
+              "RelativeToolTip": "Dashboard.aspx.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAIwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:59:41.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:35:16.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:34:38.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-25T14:54:36.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "Register.aspx.cs",
+              "ToolTip": "C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\Register.aspx.cs",
+              "RelativeToolTip": "Register.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwBkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:44:08.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\Register.aspx",
+              "RelativeDocumentMoniker": "Register.aspx",
+              "ToolTip": "C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\Register.aspx",
+              "RelativeToolTip": "Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-25T14:43:22.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Dushyant\\Desktop\\MediaSys\\MediaSysTask\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCQAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:22:04.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
